@@ -15,6 +15,8 @@ Here's a glimpse of what I accomplished utilizing Fabric capabilities in a recen
 📈 Created measures using SQL endpoint
 🎨 Automatically generated a report with quick create
 
+![Report](https://github.com/rajikudusadewale/ETHUSD-ReportAutoCreate)
+
 Ready to get started with Microsoft Fabric? Here are some resources that will pave the way for your success:
 
 1️⃣ **Enable Microsoft Fabric for your Developer Account and Enjoy 60 Days of Free Access!**
