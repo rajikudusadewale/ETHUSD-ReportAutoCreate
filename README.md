@@ -42,4 +42,3 @@ To truly explore the depths of Microsoft Fabric, I highly recommend following th
 
 Don't miss out on the opportunity to leverage Microsoft Fabric's powerful features for your Power BI projects. Get started today, and elevate your data analytics game to new heights!
 
-#MicrosoftFabric #PowerBI #DataAnalytics #MicrosoftLearn
