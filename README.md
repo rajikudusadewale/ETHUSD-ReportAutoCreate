@@ -5,7 +5,7 @@ Microsoft Fabric
 
 Are you a Power BI user curious about Microsoft Fabric and its potential to enhance your projects? I've been delving into the world of Fabric since its launch, and I'm excited to share some valuable resources that have helped me immensely. I'm confident they'll be valuable to you as well!
 
-Here's a glimpse of what I accomplished utilizing Fabric capabilities in a recent project:
+Here's a glimpse of what I accomplished utilizing Fabric's capabilities in a recent project:
 
 🔍 Scraped data online
 
@@ -37,7 +37,7 @@ If you're a Power BI user seeking a detailed and comprehensive introduction to M
 
 3️⃣ **Expand Your Knowledge with Microsoft Learn**
 
-To truly explore the depths of Microsoft Fabric, I highly recommend following this Microsoft Learn path. It will provide you with a comprehensive understanding of Fabric's capabilities and help you unlock its full potential.
+I highly recommend following this Microsoft Learn path to explore the depths of Microsoft Fabric truly. It will give you a comprehensive understanding of Fabric's capabilities and help you unlock its full potential.
 [Link: Microsoft Learn Path for Microsoft Fabric](https://lnkd.in/eGHN54Pf)
 
 Don't miss out on the opportunity to leverage Microsoft Fabric's powerful features for your Power BI projects. Get started today, and elevate your data analytics game to new heights!
