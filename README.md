@@ -1,4 +1,4 @@
-# ETHUSD-Fabric_ReportAutoCreate
+# ETHUSD-Fabric-ReportAutoCreate
 Microsoft Fabric
 
 🚀 ## Explore the Capabilities of Microsoft Fabric for Power BI Users! 
