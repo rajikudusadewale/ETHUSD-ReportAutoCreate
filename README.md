@@ -1,4 +1,4 @@
-# ETHUSD-ReportAutoCreate
+# ETHUSD-Fabric_ReportAutoCreate
 Microsoft Fabric
 
 🚀 ## Explore the Capabilities of Microsoft Fabric for Power BI Users! 
@@ -41,4 +41,6 @@ I highly recommend following this Microsoft Learn path to explore the depths of 
 [Link: Microsoft Learn Path for Microsoft Fabric](https://lnkd.in/eGHN54Pf)
 
 Don't miss out on the opportunity to leverage Microsoft Fabric's powerful features for your Power BI projects. Get started today, and elevate your data analytics game to new heights!
+
+Check it.
 
