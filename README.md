@@ -1,7 +1,7 @@
 # ETHUSD-Fabric-ReportAutoCreate
 Microsoft Fabric
 
-🚀 ## Explore the Capabilities of Microsoft Fabric for Power BI Users! 
+## Explore the Capabilities of Microsoft Fabric for Power BI Users! 
 
 Are you a Power BI user curious about Microsoft Fabric and its potential to enhance your projects? I've been delving into the world of Fabric since its launch, and I'm excited to share some valuable resources that have helped me immensely. I'm confident they'll be valuable to you as well!
 
